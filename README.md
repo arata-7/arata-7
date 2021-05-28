@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![arata's 42 stats](https://badge42.herokuapp.com/api/stats/tarata)](https://github.com/arata-7/badge42)
+[![arata's 42 stats](https://badge42.herokuapp.com/api/stats/tarata?cursus=42cursus)](https://github.com/arata-7/badge42)
 <!--
 **arata-7/arata-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
