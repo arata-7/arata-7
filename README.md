@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-![arata's 42 stats](https://github-readme-stats.vercel.app/api?username=arata-7&count_private=true&show_icons=true&theme=tokyonight)
-
 [![arata's 42 stats](https://badge42.herokuapp.com/api/stats/tarata?cursus=42cursus)](https://github.com/arata-7/badge42)
 [![arata's 42 stats](https://badge42.herokuapp.com/api/stats/tarata?cursus=C%20Piscine)](https://github.com/arata-7/badge42)
 <!--
